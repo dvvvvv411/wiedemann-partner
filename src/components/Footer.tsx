@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="mb-6">
               <img 
-                src="/lovable-uploads/f8f9c533-7034-42b8-b195-5d8ef229762e.png"
+                src="/lovable-uploads/e05c4268-25dd-4fa7-a692-f79d2ff41601.png"
                 alt="Wiedemann und Partner Logo"
                 className="h-12 w-auto"
               />
@@ -89,7 +89,7 @@ const Footer = () => {
                 className="block"
               >
                 <img 
-                  src="/lovable-uploads/e05c4268-25dd-4fa7-a692-f79d2ff41601.png" 
+                  src="/lovable-uploads/f8f9c533-7034-42b8-b195-5d8ef229762e.png" 
                   alt="Anwalt.de Bewertung 5,0 Sterne" 
                   className="object-contain w-full max-w-sm h-auto hover:opacity-80 transition-opacity duration-200"
                 />
