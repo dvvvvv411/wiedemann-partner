@@ -69,11 +69,11 @@ const Datenschutz = () => {
                 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
               </p>
               <div className="text-muted-foreground leading-relaxed">
-                <p>Heß & Partner Rechtsanwälte PartG</p>
-                <p>Marienstr. 19/20</p>
-                <p>10117 Berlin</p>
-                <p>Telefon: +49 (0) 30 75420496</p>
-                <p>E-Mail: info@hess-anwaltskanzlei.de</p>
+                <p>Wiedemann Stücker Newger & PartG mbB</p>
+                <p>Eupener Str. 181</p>
+                <p>52066 Aachen</p>
+                <p>Telefon: +49 241 94223033</p>
+                <p>E-Mail: info@wiedemann-kanzlei.de</p>
               </div>
               
               <h3 className="text-xl font-semibold text-foreground">Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>

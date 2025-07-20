@@ -145,7 +145,7 @@ const Team = () => {
               </h2>
               <p className="text-xl text-blue-100 mb-8 leading-relaxed">
                 Suchen Sie eine Karriere mit Perspektive? Verstärken Sie unser Expertenteam und gestalten Sie die Zukunft 
-                einer der innovativsten Kanzleien Berlins aktiv mit.
+                einer der innovativsten Kanzleien Aachens aktiv mit.
               </p>
               <Button asChild size="lg" variant="secondary" className="bg-white text-blue-600 hover:bg-blue-50">
                 <Link to="/stellenangebote" className="inline-flex items-center">

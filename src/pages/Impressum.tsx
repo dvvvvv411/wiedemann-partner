@@ -23,18 +23,18 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Angaben gemäß § 5 TMG</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p className="font-semibold text-foreground">Heß & Partner Rechtsanwälte PartG</p>
-              <p>Marienstr. 19/20</p>
-              <p>10117 Berlin</p>
+              <p className="font-semibold text-foreground">Wiedemann Stücker Newger & PartG mbB</p>
+              <p>Eupener Str. 181</p>
+              <p>52066 Aachen</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Kontakt</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Telefon: +49 (0) 30 75420496</p>
-              <p>Fax: +49 (0) 30 75420497</p>
-              <p>E-Mail: info@hess-anwaltskanzlei.de</p>
+              <p>Telefon: +49 241 94223033</p>
+              <p>Fax: +49 241 94223034</p>
+              <p>E-Mail: info@wiedemann-kanzlei.de</p>
             </div>
           </section>
 
@@ -42,7 +42,7 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
               <p>Berufsbezeichnung: Rechtsanwalt (verliehen in der Bundesrepublik Deutschland)</p>
-              <p>Zuständige Kammer: Rechtsanwaltskammer Berlin</p>
+              <p>Zuständige Kammer: Rechtsanwaltskammer Aachen</p>
               <p>Berufsrechtliche Regelungen: Bundesrechtsanwaltsordnung (BRAO), Berufsordnung für Rechtsanwälte (BORA), Rechtsanwaltsvergütungsgesetz (RVG), Fachanwaltsordnung (FAO)</p>
               <p>Diese Regelungen können eingesehen werden unter: <a href="http://www.brak.de" className="text-primary hover:underline">www.brak.de</a></p>
             </div>
@@ -52,16 +52,21 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Umsatzsteuer-ID</h2>
             <div className="text-muted-foreground leading-relaxed">
               <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-              <p>DE788399140</p>
+              <p>DE599707840</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Dr. Kai Henrik Heß</p>
-              <p>Marienstr. 19/20</p>
-              <p>10117 Berlin</p>
+              <p>Frank Manfred Wiedemann</p>
+              <p>Melissa Breuer</p>
+              <p>Marc Eichstädt</p>
+              <p>Jens Friese</p>
+              <p>Frank Newger</p>
+              <p>Lothar Friedrich Stücker</p>
+              <p>Eupener Str. 181</p>
+              <p>52066 Aachen</p>
             </div>
           </section>
 

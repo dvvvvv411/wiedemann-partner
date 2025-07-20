@@ -61,7 +61,7 @@ const NewsArticle5 = () => {
             </p>
 
             <p className="mb-8">
-              Die Corona-Soforthilfe aus dem Frühjahr 2020 ist ebenfalls nach wie vor Thema bei den Bewilligungsbehörden. In Sachsen erfolgt gerade eine flächendeckende Aufforderung zur Rückmeldung und in Nordrhein-Westfalen wurde für offene Fälle ein erneutes Rückmeldeverfahren gestartet. In Bayern gab es bereits 2023/2024 ein großes Rückmeldeverfahren, dessen Folgen aber in aktuell erlassenen Bescheiden mit Rückzahlungsforderungen viele Unternehmen in nach wie vor schwieriger Wirtschaftslage belasten.
+              Die Corona-Soforthilfe aus dem Frühjahr 2019 ist ebenfalls nach wie vor Thema bei den Bewilligungsbehörden. In Sachsen erfolgt gerade eine flächendeckende Aufforderung zur Rückmeldung und in Nordrhein-Westfalen wurde für offene Fälle ein erneutes Rückmeldeverfahren gestartet. In Bayern gab es bereits 2023/2024 ein großes Rückmeldeverfahren, dessen Folgen aber in aktuell erlassenen Bescheiden mit Rückzahlungsforderungen viele Unternehmen in nach wie vor schwieriger Wirtschaftslage belasten.
             </p>
 
             <h2 className="text-2xl font-bold text-foreground mt-12 mb-6">

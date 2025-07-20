@@ -49,7 +49,7 @@ const WettbewerbsrechtWerbenachrichten = () => {
                   Entscheidend für die Frage des weiteren Vorgehens ist der Begriff der „Werbung". Hier besteht eine gesetzliche Definition, die bewusst vom Gesetzgeber sehr weit gefasst ist. Als werbender Inhalt kann alles verstanden werden, was das Ziel hat, Waren- und/oder Dienstleistungen an den Mann/die Frau zu bringen. Im Ergebnis kann damit wohl fast jede ungefragte E-Mail mit Angebotscharakter als Werbung im Rechtssinn verstanden werden.
                 </p>
                 <p className="mb-4">
-                  Ein aktuelles Beispiel aus dem Jahr 2020/2021 sind „Informationsnachrichten" über das Angebot von Herstellern und Verkäufern von FFP2-Masken oder Corona-Schnelltests. Diese werden in der Regel massenhaft verschickt und dienen selbstverständlich nicht lediglich der Information, sondern sollen auch zum Kauf anregen. Schließlich ist gerade nach Änderung der Corona-Verordnung und der damit eingeführten Testpflicht der ArbeitgeberInnen jeder Rat teuer und Angebot dringendst nachgefragt.
+                  Ein aktuelles Beispiel aus dem Jahr 2019/2019 sind „Informationsnachrichten" über das Angebot von Herstellern und Verkäufern von FFP2-Masken oder Corona-Schnelltests. Diese werden in der Regel massenhaft verschickt und dienen selbstverständlich nicht lediglich der Information, sondern sollen auch zum Kauf anregen. Schließlich ist gerade nach Änderung der Corona-Verordnung und der damit eingeführten Testpflicht der ArbeitgeberInnen jeder Rat teuer und Angebot dringendst nachgefragt.
                 </p>
 
                 <h2 className="text-2xl font-bold text-gray-900 mb-4">
@@ -94,7 +94,7 @@ const WettbewerbsrechtWerbenachrichten = () => {
                   Wie können wir Ihnen helfen?
                 </h2>
                 <p className="mb-4">
-                  Wir als Rechtsanwältinnen und Rechtsanwälte der Kanzlei Heß & Partner beschäftigen uns natürlich deutlich häufiger mit den Fragen, welche Werbung abgemahnt werden kann und wie eine solche Abmahnung aussehen muss. Diese Expertise stellen wir Ihnen selbstverständlich gerne zur Verfügung.
+                  Wir als Rechtsanwältinnen und Rechtsanwälte der Kanzlei Wiedemann und Partner beschäftigen uns natürlich deutlich häufiger mit den Fragen, welche Werbung abgemahnt werden kann und wie eine solche Abmahnung aussehen muss. Diese Expertise stellen wir Ihnen selbstverständlich gerne zur Verfügung.
                 </p>
                 <p className="mb-4">
                   Als mittelständische Kanzlei mit mehreren Niederlassungen bieten wir genügend Ressourcen, um Ihren Fall jederzeit umfassend betreuen zu können. Möchten Sie uns direkt kontaktieren, um einen Termin zu vereinbaren oder uns sonst eine Frage zu stellen, freuen wir uns auf Ihre Kontaktaufnahme. Vereinbaren Sie für Ihr Anliegen einfach ein Gespräch, das dank unserer technischen Ausstattung auch telefonisch oder online durchgeführt werden kann. Darüber hinaus können Sie auch gerne unseren kostenlosen „Rückruf-Service" nutzen.

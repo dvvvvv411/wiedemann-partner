@@ -12,5 +12,5 @@ export const useDocumentTitle = (title: string) => {
 };
 
 export const formatPageTitle = (pageTitle: string) => {
-  return `${pageTitle} | Heß & Partner - Rechtsanwälte Berlin`;
+  return `${pageTitle} | Wiedemann und Partner - Rechtsanwälte Aachen`;
 };

@@ -28,7 +28,7 @@ const TestimonialsSection = () => {
       company: "",
       position: "",
       rating: 5,
-      text: "Dr. Heß ist ein außergewöhnlicher Anwalt – fachlich brillant, strategisch scharf und zugleich menschlich absolut angenehm. Er hat sich mit beeindruckender Gründlichkeit in meinen Fall eingearbeitet und dabei stets das große Ganze im Blick behalten. Ein echter Fels in der Brandung!",
+      text: "Herr Wiedemann ist ein außergewöhnlicher Anwalt – fachlich brillant, strategisch scharf und zugleich menschlich absolut angenehm. Er hat sich mit beeindruckender Gründlichkeit in meinen Fall eingearbeitet und dabei stets das große Ganze im Blick behalten. Ein echter Fels in der Brandung!",
       image: "/lovable-uploads/d53c73d6-7522-47fe-9f86-4becc780b6ec.png"
     },
     {
@@ -46,7 +46,7 @@ const TestimonialsSection = () => {
       company: "",
       position: "",
       rating: 5,
-      text: "Herr Dr. Heß hat mich mit seiner ruhigen, analytischen Art vollkommen überzeugt. Er nimmt sich Zeit, hört wirklich zu und liefert dann punktgenaue juristische Einschätzungen. Besonders in stressigen Situationen war seine souveräne Haltung für mich Gold wert. Ein Anwalt, wie man ihn sich wünscht.",
+      text: "Das Team von Wiedemann und Partner hat mich mit seiner ruhigen, analytischen Art vollkommen überzeugt. Sie nehmen sich Zeit, hören wirklich zu und liefern dann punktgenaue juristische Einschätzungen. Besonders in stressigen Situationen war ihre souveräne Haltung für mich Gold wert. Anwälte, wie man sie sich wünscht.",
       image: "/lovable-uploads/c66c5011-3e4c-4916-9b5f-dcbb4706ab77.png"
     },
     {

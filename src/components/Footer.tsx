@@ -83,7 +83,7 @@ const Footer = () => {
                 className="object-contain w-full max-w-sm h-auto"
               />
               <a 
-                href="https://www.anvvalt.de/hess-partner" 
+                href="https://www.anvvalt.de/wiedemann-partner" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block"
@@ -117,7 +117,7 @@ const Footer = () => {
             {/* Copyright and Cookie Settings */}
             <div className="flex flex-col lg:flex-row items-center gap-4 text-sm">
               <div className="text-blue-100">
-                © 2025 Heß & Partner. Alle Rechte vorbehalten.
+                © 2025 Wiedemann und Partner. Alle Rechte vorbehalten.
               </div>
               <button
                 onClick={() => {

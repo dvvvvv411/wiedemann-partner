@@ -41,7 +41,7 @@ const RechtsgebieteVertragsrecht = () => {
             </h2>
             <div className="space-y-6 text-gray-700 leading-relaxed">
               <p>
-                Als spezialisierte Vertragsrechtsexperten von Heß & Partner entwickeln wir maßgeschneiderte Lösungen für alle vertraglichen Herausforderungen:
+                Als spezialisierte Vertragsrechtsexperten von Wiedemann und Partner entwickeln wir maßgeschneiderte Lösungen für alle vertraglichen Herausforderungen:
               </p>
               <ul className="space-y-4 ml-6">
                 <li className="list-disc">
