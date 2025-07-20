@@ -102,7 +102,7 @@ const RechtsgebieteVertragsrecht = () => {
                 Nicht nur die Vertragsgestaltung selbst profitiert von vertragsrechtlichem Fachwissen. Das gilt auch für Vertragsverhandlungen.
               </p>
               <p>
-                Um ein optimales Verhandlungsergebnis zu gewährleisten, müssen die rechtlichen Rahmenbedingungen und die eigene Situation analysiert werden. Wo liegen die eigenen Interessen, welche Ziele verfolgt der Vertragspartner? Welchen Spielraum an Zugeständnissen räumt man ein, wo zieht man die Grenze? Welche späteren Konflikte sind möglich, wie lässt sich eine Lösung vorwegnehmen? Die Anwälte von Heß & Partner begleiten Ihre Vertragsverhandlungen mit viel Erfahrung und dem Blick für die Praxis.
+                Um ein optimales Verhandlungsergebnis zu gewährleisten, müssen die rechtlichen Rahmenbedingungen und die eigene Situation analysiert werden. Wo liegen die eigenen Interessen, welche Ziele verfolgt der Vertragspartner? Welchen Spielraum an Zugeständnissen räumt man ein, wo zieht man die Grenze? Welche späteren Konflikte sind möglich, wie lässt sich eine Lösung vorwegnehmen? Die Anwälte von Wiedemann und Partner begleiten Ihre Vertragsverhandlungen mit viel Erfahrung und dem Blick für die Praxis.
               </p>
 
               <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">
