@@ -40,8 +40,8 @@ const Header = () => {
           <div className="flex items-center">
             <Link to="/">
               <img 
-                src="/lovable-uploads/88fbd551-e951-4bd1-ac03-317ed47b6bec.png"
-                alt="Kanzlei Logo"
+                src="/lovable-uploads/f8f9c533-7034-42b8-b195-5d8ef229762e.png"
+                alt="Wiedemann und Partner Logo"
                 className="h-12 w-auto"
               />
             </Link>
