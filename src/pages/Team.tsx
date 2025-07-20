@@ -22,36 +22,36 @@ const Team = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Dr. Kai Henrik Heß",
-      email: "k.hess@hess-anwaltskanzlei.de",
+      name: "Dr. Frank M. Wiedemann",
+      email: "f.wiedemann@wiedemann-kanzlei.de",
       areas: ["Insolvenzrecht", "Steuerrecht"],
       image: "/lovable-uploads/8a903cc8-6180-44ca-aa29-51d0c215b56d.png"
     },
     {
       id: 2,
-      name: "Arnold Bernstein",
-      email: "a.bernstein@hess-anwaltskanzlei.de",
+      name: "Frank Newger",
+      email: "f.newger@wiedemann-kanzlei.de",
       areas: ["Grundstücksrecht", "Kaufrecht"],
       image: "/lovable-uploads/1baa43dd-bffa-494b-ae03-8e8c2abfb724.png"
     },
     {
       id: 3,
-      name: "Heike Burgfeld",
-      email: "h.burgfeld@hess-anwaltskanzlei.de",
+      name: "Brigitte Laufer",
+      email: "b.laufer@wiedemann-kanzlei.de",
       areas: ["Maklerrecht", "Sozialrecht"],
       image: "/lovable-uploads/46aec5ad-fbe3-406d-b9d1-4155a55ef8b1.png"
     },
     {
       id: 4,
-      name: "Heinrich Falkenberg",
-      email: "h.falkenberg@hess-anwaltskanzlei.de",
+      name: "Jürgen Heitzmann",
+      email: "j.heitzmann@wiedemann-kanzlei.de",
       areas: ["Vertragsrecht", "Verwaltungsrecht"],
       image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
     },
     {
       id: 5,
-      name: "Werner von Breidenbach",
-      email: "w.breidenbach@hess-anwaltskanzlei.de",
+      name: "Lothar F. Stücker",
+      email: "l.stuecker@wiedemann-kanzlei.de",
       areas: ["Wettbewerbsrecht", "Grundstücksrecht"],
       image: "/lovable-uploads/5a61c3c4-7199-4a3b-b8e7-285bdfae72b5.png"
     }
