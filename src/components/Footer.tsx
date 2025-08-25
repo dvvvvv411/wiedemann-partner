@@ -82,18 +82,6 @@ const Footer = () => {
                 alt="Auszeichnung" 
                 className="object-contain w-full max-w-sm h-auto"
               />
-              <a 
-                href="https://anvvalt.de/kbs-kanzlei" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="block"
-              >
-                <img 
-                  src="/lovable-uploads/f8f9c533-7034-42b8-b195-5d8ef229762e.png" 
-                  alt="Anwalt.de Bewertung 5,0 Sterne" 
-                  className="object-contain w-full max-w-sm h-auto hover:opacity-80 transition-opacity duration-200"
-                />
-              </a>
             </div>
           </div>
         </div>
