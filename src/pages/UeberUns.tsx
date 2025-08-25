@@ -10,7 +10,7 @@ const UeberUns = () => {
       
       <StandardHero
         title="Über uns"
-        description="Seit 2019 stehen wir für exzellente Rechtsberatung im Herzen Aachens. Erfahren Sie mehr über unsere Werte, unsere Expertise und unseren Anspruch an erstklassigen Service."
+        description="Seit 2019 stehen wir für exzellente Rechtsberatung im Herzen Düsseldorfs. Erfahren Sie mehr über unsere Werte, unsere Expertise und unseren Anspruch an erstklassigen Service."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Über uns" }
@@ -25,7 +25,7 @@ const UeberUns = () => {
               Ihre Rechtsexperten im Zentrum der Kaiserstadt
             </h2>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Strategische Rechtsberatung auf höchstem Niveau - persönlich, effizient und mit dem tiefen Verständnis für die Anforderungen moderner Mandanten in Aachen und darüber hinaus.
+              Strategische Rechtsberatung auf höchstem Niveau - persönlich, effizient und mit dem tiefen Verständnis für die Anforderungen moderner Mandanten in Düsseldorf und darüber hinaus.
             </p>
           </div>
         </div>

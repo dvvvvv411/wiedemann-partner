@@ -42,7 +42,7 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
               <p>Berufsbezeichnung: Rechtsanwalt (verliehen in der Bundesrepublik Deutschland)</p>
-              <p>Zuständige Kammer: Rechtsanwaltskammer Aachen</p>
+              <p>Zuständige Kammer: Rechtsanwaltskammer Düsseldorf</p>
               <p>Berufsrechtliche Regelungen: Bundesrechtsanwaltsordnung (BRAO), Berufsordnung für Rechtsanwälte (BORA), Rechtsanwaltsvergütungsgesetz (RVG), Fachanwaltsordnung (FAO)</p>
               <p>Diese Regelungen können eingesehen werden unter: <a href="http://www.brak.de" className="text-primary hover:underline">www.brak.de</a></p>
             </div>
