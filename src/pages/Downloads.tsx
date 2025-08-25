@@ -2,8 +2,20 @@ import { Download } from "lucide-react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import StandardHero from "../components/StandardHero";
+import { useToast } from "@/hooks/use-toast";
 
 const Downloads = () => {
+  const { toast } = useToast();
+
+  const handleDownloadClick = (e: React.MouseEvent, title: string) => {
+    e.preventDefault();
+    toast({
+      title: "Download nicht verfügbar",
+      description: `Der Download "${title}" ist momentan nicht verfügbar.`,
+      variant: "destructive"
+    });
+  };
+
   const downloadItems = [
     {
       title: "Vertretungsvollmacht – Allgemein",
@@ -66,10 +78,9 @@ const Downloads = () => {
           {/* Downloads Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {downloadItems.map((item, index) => (
-              <a 
+              <div 
                 key={index}
-                href={item.link}
-                download
+                onClick={(e) => handleDownloadClick(e, item.title)}
                 className="bg-white rounded-lg shadow-sm hover:shadow-md transition-all duration-300 p-6 border border-gray-200 hover:border-[#004595]/20 group cursor-pointer block"
               >
                 <div className="flex items-center justify-between">
@@ -88,7 +99,7 @@ const Downloads = () => {
                     <Download className="w-5 h-5 text-[#004595] group-hover:text-[#003366]" />
                   </div>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
         </div>
