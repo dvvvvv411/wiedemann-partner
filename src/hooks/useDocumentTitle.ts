@@ -12,5 +12,5 @@ export const useDocumentTitle = (title: string) => {
 };
 
 export const formatPageTitle = (pageTitle: string) => {
-  return `${pageTitle} | Wiedemann und Partner - Rechtsanwälte Aachen`;
+  return `${pageTitle} | KBS Kanzlei - Rechtsanwälte Düsseldorf`;
 };

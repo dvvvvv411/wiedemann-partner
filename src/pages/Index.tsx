@@ -45,7 +45,7 @@ const Index = () => {
     </svg>
   );
 
-  useDocumentTitle("Wiedemann und Partner - Ihre Rechtsexperten in Aachen");
+  useDocumentTitle("KBS Kanzlei - Ihre Rechtsexperten in Düsseldorf");
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-accent/20 pt-20">
@@ -72,7 +72,7 @@ const Index = () => {
               {/* Company Name */}
               <div className="space-y-2">
                 <p className="text-lg text-muted-foreground font-medium tracking-wide uppercase">
-                  Wiedemann und Partner
+                  KBS Kanzlei
                 </p>
                 <div className="w-16 h-1 bg-[#004595] rounded"></div>
               </div>
@@ -130,7 +130,7 @@ const Index = () => {
                 <div className="relative w-full h-full rounded-lg overflow-hidden shadow-xl md:shadow-2xl ring-1 ring-black/10">
                   <img 
                     src={heroImage} 
-                    alt="Professionelle Anwaltskanzlei - Wiedemann und Partner"
+                    alt="Professionelle Anwaltskanzlei - KBS Kanzlei"
                     className="w-full h-full object-cover"
                   />
                   {/* Professional overlay */}
@@ -159,7 +159,7 @@ const Index = () => {
               <div className="w-full max-w-xl h-full flex items-center">
                 <img 
                   src={partnerImage} 
-                  alt="Wiedemann und Partner Team"
+                  alt="KBS Kanzlei Team"
                   className="w-full h-auto max-h-[500px] object-contain"
                 />
               </div>
@@ -169,7 +169,7 @@ const Index = () => {
             <div className="space-y-4 md:space-y-6 h-full flex flex-col justify-center">
               <div className="text-white/90 text-sm md:text-base leading-relaxed space-y-3 md:space-y-4">
                 <p>
-                  Bei Wiedemann und Partner verbinden wir juristische Expertise mit moderner Beratung. Unsere Mandanten profitieren von über 15 Jahren Erfahrung in komplexen Rechts- und Steuerangelegenheiten.
+                  Bei KBS Kanzlei verbinden wir juristische Expertise mit moderner Beratung. Unsere Mandanten profitieren von über 15 Jahren Erfahrung in komplexen Rechts- und Steuerangelegenheiten.
                 </p>
                 <p>
                   Wir entwickeln strategische Lösungen, die Ihre Interessen optimal schützen und Ihre Ziele verwirklichen. Dabei setzen wir auf persönliche Betreuung, transparente Kommunikation und nachhaltige Ergebnisse.
@@ -252,7 +252,7 @@ const Index = () => {
               {/* Title - Centered */}
               <div className="space-y-4 text-center">
                 <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-[#002d4a]">
-                  Karriere bei Wiedemann und Partner
+                  Karriere bei KBS Kanzlei
                 </h2>
                 <p className="text-xl text-muted-foreground leading-relaxed">
                   Werden Sie Teil unseres Erfolgs. Wir bieten Ihnen eine Karriere mit Perspektive in einer der modernsten Kanzleien Aachens.

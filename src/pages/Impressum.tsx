@@ -23,18 +23,18 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Angaben gemäß § 5 TMG</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p className="font-semibold text-foreground">Wiedemann Stücker Newger & PartG mbB</p>
-              <p>Eupener Str. 181</p>
-              <p>52066 Aachen</p>
+              <p className="font-semibold text-foreground">KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
+              <p>Speldorfer Str. 2</p>
+              <p>40239 Düsseldorf</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Kontakt</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Telefon: +49 241 94223033</p>
-              <p>Fax: +49 241 94223034</p>
-              <p>E-Mail: info@wiedemann-kanzlei.de</p>
+              <p>Telefon: +49 211 86943870</p>
+              <p>Fax: +49 211 86943871</p>
+              <p>E-Mail: info@kbs-kanzlei.de</p>
             </div>
           </section>
 
@@ -59,14 +59,11 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Frank Manfred Wiedemann</p>
-              <p>Melissa Breuer</p>
-              <p>Marc Eichstädt</p>
-              <p>Jens Friese</p>
-              <p>Frank Newger</p>
-              <p>Lothar Friedrich Stücker</p>
-              <p>Eupener Str. 181</p>
-              <p>52066 Aachen</p>
+              <p>Torsten Küpper</p>
+              <p>Stefan Bredehöft</p>
+              <p>Marcus Schwencker</p>
+              <p>Speldorfer Str. 2</p>
+              <p>40239 Düsseldorf</p>
             </div>
           </section>
 

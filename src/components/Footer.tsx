@@ -33,7 +33,7 @@ const Footer = () => {
             <div className="mb-6">
               <img 
                 src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
-                alt="Wiedemann und Partner Logo"
+                alt="KBS Kanzlei Logo"
                 className="h-12 w-auto"
               />
             </div>
@@ -83,7 +83,7 @@ const Footer = () => {
                 className="object-contain w-full max-w-sm h-auto"
               />
               <a 
-                href="https://anvvalt.de/wiedemann-kanzlei" 
+                href="https://anvvalt.de/kbs-kanzlei" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block"
@@ -117,7 +117,7 @@ const Footer = () => {
             {/* Copyright and Cookie Settings */}
             <div className="flex flex-col lg:flex-row items-center gap-4 text-sm">
               <div className="text-blue-100">
-                © 2025 Wiedemann und Partner. Alle Rechte vorbehalten.
+                © 2025 KBS Kanzlei. Alle Rechte vorbehalten.
               </div>
               <button
                 onClick={() => {

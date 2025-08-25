@@ -23,7 +23,7 @@ const AGBs = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">§ 1 Geltungsbereich</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
-              <p>Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Rechts- und Steuerberatungsleistungen der Kanzlei Wiedemann und Partner. Sie werden Bestandteil aller Verträge über die Erbringung anwaltlicher und steuerberatender Leistungen.</p>
+              <p>Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Rechts- und Steuerberatungsleistungen der Kanzlei KBS Kanzlei. Sie werden Bestandteil aller Verträge über die Erbringung anwaltlicher und steuerberatender Leistungen.</p>
               <p>Entgegenstehende oder abweichende Bedingungen des Mandanten werden nur dann Vertragsbestandteil, wenn wir diesen ausdrücklich schriftlich zustimmt haben.</p>
             </div>
           </section>
