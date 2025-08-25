@@ -22,7 +22,7 @@ const Team = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Torsten Küpper",
+      name: "Dr. Torsten Alexander Küpper",
       email: "t.kuepper@kbs-kanzlei.de",
       areas: ["Insolvenzrecht", "Steuerrecht"],
       image: "/lovable-uploads/8a903cc8-6180-44ca-aa29-51d0c215b56d.png"
@@ -39,14 +39,14 @@ const Team = () => {
       name: "Marcus Schwencker",
       email: "m.schwencker@kbs-kanzlei.de",
       areas: ["Maklerrecht", "Sozialrecht"],
-      image: "/lovable-uploads/46aec5ad-fbe3-406d-b9d1-4155a55ef8b1.png"
+      image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
     },
     {
       id: 4,
       name: "Anna Weber",
       email: "a.weber@kbs-kanzlei.de",
       areas: ["Vertragsrecht", "Verwaltungsrecht"],
-      image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
+      image: "/lovable-uploads/46aec5ad-fbe3-406d-b9d1-4155a55ef8b1.png"
     },
     {
       id: 5,
