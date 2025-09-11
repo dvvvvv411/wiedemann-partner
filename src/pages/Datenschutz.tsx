@@ -72,7 +72,7 @@ const Datenschutz = () => {
                 <p>KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
                 <p>Speldorfer Str. 2</p>
                 <p>40239 Düsseldorf</p>
-                <p>Telefon: +49 211 86943870</p>
+                <p>Telefon: +49 211 54262200</p>
                 <p>E-Mail: info@kbs-kanzlei.de</p>
               </div>
               
