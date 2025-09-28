@@ -36,9 +36,9 @@ const Team = () => {
     },
     {
       id: 3,
-      name: "Marcus Schwencker",
-      email: "m.schwencker@kbs-kanzlei.de",
-      areas: ["Maklerrecht", "Sozialrecht"],
+      name: "Mark Steh",
+      email: "m.steh@kbs-kanzlei.de",
+      areas: ["Maklerrecht", "Sozialrecht", "Insolvenzrecht"],
       image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
     },
     {
